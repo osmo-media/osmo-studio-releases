@@ -1,5 +1,7 @@
-# Osmo Studio releases
+# Osmo Studio
 
-Downloads of Osmo Studio for Mac. The app updates itself from here.
+**[Download Osmo Studio for Mac](https://github.com/osmo-media/osmo-studio-releases/releases/latest/download/Osmo-Studio-arm64.dmg)** (Apple Silicon)
 
-Get the latest version from [Releases](https://github.com/osmo-media/osmo-studio-releases/releases/latest).
+Open the downloaded file and drag Osmo Studio into Applications. After that the app updates itself.
+
+Earlier versions are under [Releases](https://github.com/osmo-media/osmo-studio-releases/releases).
